@@ -2,11 +2,7 @@
 import streamlit as st
 import numpy as np
 from sklearn import svm
-from joblib import dump, load
 
-
-
-regre= load('filenames.joblib')
 
 
 def main():
